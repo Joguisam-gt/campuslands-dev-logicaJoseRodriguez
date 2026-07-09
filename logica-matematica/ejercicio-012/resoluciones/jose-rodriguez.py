@@ -1,3 +1,5 @@
+# posicionamiento en ruta: /resoluciones/jose-rodriguez/jose-rodriguez.py
+
 def analizar_probabilidad_pingpong(puntos_ganados_saque, total_saques):
     # Regla de control: Evitar división por cero si no se han realizado saques
     if total_saques == 0:
