@@ -1,5 +1,3 @@
-# posicionamiento en ruta: /resoluciones/jose-rodriguez/jose-rodriguez.py
-
 def analizar_combinatoria_kickboxing(cantidad_punos, cantidad_patadas):
     # Umbral de variabilidad exigido por el torneo
     MIN_COMBINACIONES_ESTRATEGIA = 12
